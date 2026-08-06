@@ -1,57 +1,107 @@
-# 👋 Olá! Eu sou Fernando Freitas
+<table>
+<tr>
 
-![Banner](banner.png)
+<td width="220" valign="top">
 
-## 💻 Sobre mim
+<img src="foto-perfil.png" width="180" style="border-radius:50%;">
 
-Sou Desenvolvedor Backend em formação, estudando Python, FastAPI, PostgreSQL e Docker.
+</td>
 
-Atualmente estou desenvolvendo o **FA Manager**, um sistema de gestão para empresas de higienização, com foco em orçamentos, clientes, agendamentos e financeiro.
+<td valign="top">
 
-## 🚀 Tecnologias
+# Fernando Freitas
 
-- 🐍 Python
-- ⚡ FastAPI
-- 🐘 PostgreSQL
-- 🐳 Docker
-- 🌐 Git
-- 📂 GitHub
-- 💻 VS Code
+### Backend Developer
 
-## 📚 Atualmente estudando
+🐍 Python • ⚡ FastAPI • 🐘 PostgreSQL • 🐳 Docker
 
-- Arquitetura de APIs REST
-- SQLAlchemy
-- Pydantic
-- Git e GitHub
-- Backend com Python
+Atualmente desenvolvendo o **FA Manager**, um sistema para gestão de empresas de higienização profissional.
 
-## 🚀 Projeto em destaque
+</td>
 
-### FA Manager
+</tr>
+</table>
 
-Sistema desenvolvido para gerenciamento de empresas de higienização profissional.
+---
 
-Principais módulos:
+# 👨‍💻 Sobre mim
+
+Sou desenvolvedor Backend em formação, estudando Python com foco em desenvolvimento de APIs, arquitetura de software e banco de dados.
+
+Meu principal projeto atualmente é o **FA Manager**, um sistema completo para empresas de higienização contendo:
 
 - Clientes
 - Orçamentos
 - Agendamentos
-- Serviços
 - Financeiro
 - Dashboard
-- Inteligência Artificial para Orçamentos
+- IA para geração de orçamentos
 
-## 📫 Contato
+---
 
-📷 Instagram
+# 🚀 Tecnologias
 
-https://www.instagram.com/amarall.dev/
+<p>
 
-💻 GitHub
+<img src="https://skillicons.dev/icons?i=python"/>
 
-https://github.com/fernandoamaral-f
+<img src="https://skillicons.dev/icons?i=fastapi"/>
 
+<img src="https://skillicons.dev/icons?i=postgres"/>
+
+<img src="https://skillicons.dev/icons?i=docker"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+</p>
+
+---
+
+
+# 🔥 Sequência de estudos
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://streak-stats.demolab.com?user=fernandoamaral-f&theme=dark&hide_border=true"
+      alt="Sequência de contribuições de Fernando no GitHub"
+    />
+  </a>
+</p>
+
+---
+
+# 📂 Projeto Principal
+
+## FA Manager
+
+Sistema de gerenciamento para empresas de higienização profissional.
+
+✔ Cadastro de clientes
+
+✔ Orçamentos
+
+✔ Agendamentos
+
+✔ Financeiro
+
+✔ Dashboard
+
+✔ Inteligência Artificial
+
+---
+
+# 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amarall.dev)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fernandoamaral-f)
 
 
 
