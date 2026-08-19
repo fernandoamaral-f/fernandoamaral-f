@@ -11,9 +11,9 @@
 
 # Fernando Freitas
 
-### Backend Developer
+### Backend Developer em formação | Python & FastAPI
 
-🐍 Python • ⚡ FastAPI • 🐘 PostgreSQL • 🐳 Docker
+🐍 Python • ⚡ FastAPI • 🗄️ SQLite • 🔧 Git/GitHub
 
 Atualmente desenvolvendo o **FA Manager**, um sistema para gestão de empresas de higienização profissional.
 
@@ -28,14 +28,22 @@ Atualmente desenvolvendo o **FA Manager**, um sistema para gestão de empresas d
 
 Sou desenvolvedor Backend em formação, estudando Python com foco em desenvolvimento de APIs, arquitetura de software e banco de dados.
 
-Meu principal projeto atualmente é o **FA Manager**, um sistema completo para empresas de higienização contendo:
+Meu principal projeto atualmente é o **FA Manager**:
 
-- Clientes
+### 🚧 Em desenvolvimento
+
+✅ API de clientes  
+✅ CRUD com FastAPI  
+✅ Persistência com SQLite  
+✅ Validação de dados com Pydantic  
+
+### 🗺️ Roadmap
+
 - Orçamentos
 - Agendamentos
 - Financeiro
 - Dashboard
-- IA para geração de orçamentos
+- Inteligência Artificial
 
 ---
 
