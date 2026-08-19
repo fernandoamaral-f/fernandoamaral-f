@@ -62,15 +62,13 @@ Meu principal projeto atualmente é o **FA Manager**, um sistema completo para e
 ---
 
 
-# 🔥 Sequência de estudos
+## 📊 Evolução no GitHub
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img
-      src="https://streak-stats.demolab.com?user=fernandoamaral-f&theme=dark&hide_border=true"
-      alt="Sequência de contribuições de Fernando no GitHub"
-    />
-  </a>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fernandoamaral-f&theme=github_dark&animation=rise"
+    alt="Resumo do perfil GitHub de Fernando"
+  />
 </p>
 
 ---
