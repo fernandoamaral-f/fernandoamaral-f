@@ -57,6 +57,7 @@ Meu principal projeto atualmente é o **FA Manager**:
   <img src="https://skillicons.dev/icons?i=git" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=github" width="48" height="48"/>
   <img src="https://cdn.simpleicons.org/cursor/FFFFFF" width="48" height="48" alt="Cursor"/>
+  <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48"/>
 </p>
 
 ### 📚 Em estudo
