@@ -51,15 +51,13 @@ Meu principal projeto atualmente é o **FA Manager**:
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=fastapi"/>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=cursor"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=python" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=github" width="48" height="48"/>
+  <img src="https://cdn.simpleicons.org/cursor/FFFFFF" width="48" height="48" alt="Cursor"/>
+</p>
 
 ### 📚 Em estudo
 - PostgreSQL
