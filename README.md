@@ -55,15 +55,15 @@ Meu principal projeto atualmente é o **FA Manager**:
 
 <img src="https://skillicons.dev/icons?i=fastapi"/>
 
-<img src="https://skillicons.dev/icons?i=postgres"/>
-
-<img src="https://skillicons.dev/icons?i=docker"/>
-
 <img src="https://skillicons.dev/icons?i=git"/>
 
 <img src="https://skillicons.dev/icons?i=github"/>
 
-<img src="https://skillicons.dev/icons?i=vscode"/>
+<img src="https://skillicons.dev/icons?i=cursor"/>
+
+### 📚 Em estudo
+- PostgreSQL
+- Docker
 
 </p>
 
