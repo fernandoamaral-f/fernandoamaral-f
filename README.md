@@ -81,24 +81,25 @@ Meu principal projeto atualmente é o **FA Manager**:
 
 ---
 
-# 📂 Projeto Principal
+## 📁 Projeto Principal
 
-## FA Manager
+### FA Manager
 
 Sistema de gerenciamento para empresas de higienização profissional.
 
-✔ Cadastro de clientes
+### ✅ Implementado
+- Cadastro e gerenciamento de clientes
+- API REST com FastAPI
+- Persistência com SQLite
+- Validação de dados
+- Testes automatizados iniciais
 
-✔ Orçamentos
-
-✔ Agendamentos
-
-✔ Financeiro
-
-✔ Dashboard
-
-✔ Inteligência Artificial
-
+### 🚧 Próximas etapas
+- Orçamentos
+- Agendamentos
+- Financeiro
+- Dashboard
+- Inteligência Artificial
 ---
 
 # 📫 Contato
