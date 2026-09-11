@@ -11,7 +11,7 @@
 
 # Fernando Freitas
 
-### Backend Developer em formação | Python & FastAPI
+### Backend Developer Jr | Python • FastAPI • APIs REST
 
 🐍 Python • ⚡ FastAPI • 🗄️ SQLite • 🔧 Git/GitHub
 
@@ -105,7 +105,6 @@ Sistema de gerenciamento para empresas de higienização profissional.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandoamaralf/)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amarall.dev)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fernandoamaral-f)
 
